@@ -1,0 +1,39 @@
+body[data-color="grey"] #sidebar > ul > li {
+	background: #253544;
+}
+
+body[data-color="grey"] #sidebar > ul > li:hover {
+  background-color: #5F905F;
+}
+
+#header_logo {
+	width: 50% !important;
+}
+
+#header {
+	background: none repeat scroll 0% 0% #3F703F !important;
+}
+
+#sidebar {
+	background: none repeat scroll 0% 0% #3F703F !important;
+}
+
+#sidebar ul {
+	background: none repeat scroll 0% 0% #253544;
+}
+
+#sidebar li.active {
+	background-color: #3F703F !important;
+}
+
+#content-header h1, show_hide_grid_wrapper h1 {
+	color: #3F703F;
+}
+
+.site-stats a.a-customize {
+	color: #3F703F;
+}
+
+#user-nav > ul > li > a:hover {
+	background: none repeat scroll 0% 0% #2C5D2C;
+}
